@@ -1,0 +1,1557 @@
+====================================================================================================
+GENOME LOCAL ALIGNMENT RESULTS
+Generated: 2025-12-11 16:37:41
+====================================================================================================
+
+Genome 1: KY352407.1 Severe acute respiratory syndrome-related coronavirus strain BtKY72, complete genome
+Length: 29274 bp
+
+Genome 2: PX467730.1 Influenza A virus (A/Colorado/101/2025(H3N2)) segment 1 polymerase PB2 (PB2) gene, complete cds
+Length: 2316 bp
+
+Parameters:
+  Match: 2
+  Mismatch: -1
+  Gap: -2
+  Window Size: 1000
+  Step Size: 500
+
+
+Alignment #1
+----------------------------------------------------------------------------------------------------
+Region 1: 12000-13000 bp
+Region 2: 1000-2000 bp
+Score: 526
+Similarity: 55.34%
+Alignment length: 1086 positions
+
+
+Alignment #2
+----------------------------------------------------------------------------------------------------
+Region 1: 2500-3500 bp
+Region 2: 500-1500 bp
+Score: 497
+Similarity: 54.44%
+Alignment length: 1071 positions
+
+
+Alignment #3
+----------------------------------------------------------------------------------------------------
+Region 1: 1000-2000 bp
+Region 2: 1000-2000 bp
+Score: 480
+Similarity: 53.33%
+Alignment length: 1065 positions
+
+
+Alignment #4
+----------------------------------------------------------------------------------------------------
+Region 1: 11500-12500 bp
+Region 2: 500-1500 bp
+Score: 480
+Similarity: 53.93%
+Alignment length: 1068 positions
+
+
+Alignment #5
+----------------------------------------------------------------------------------------------------
+Region 1: 20000-21000 bp
+Region 2: 1000-2000 bp
+Score: 478
+Similarity: 54.04%
+Alignment length: 1040 positions
+
+
+Alignment #6
+----------------------------------------------------------------------------------------------------
+Region 1: 2000-3000 bp
+Region 2: 1000-2000 bp
+Score: 477
+Similarity: 53.77%
+Alignment length: 1047 positions
+
+
+Alignment #7
+----------------------------------------------------------------------------------------------------
+Region 1: 5000-6000 bp
+Region 2: 1000-2000 bp
+Score: 477
+Similarity: 53.36%
+Alignment length: 1070 positions
+
+
+Alignment #8
+----------------------------------------------------------------------------------------------------
+Region 1: 20500-21500 bp
+Region 2: 1000-2000 bp
+Score: 477
+Similarity: 53.77%
+Alignment length: 1060 positions
+
+
+Alignment #9
+----------------------------------------------------------------------------------------------------
+Region 1: 17500-18500 bp
+Region 2: 1000-2000 bp
+Score: 473
+Similarity: 53.40%
+Alignment length: 1043 positions
+
+
+Alignment #10
+----------------------------------------------------------------------------------------------------
+Region 1: 20500-21500 bp
+Region 2: 500-1500 bp
+Score: 473
+Similarity: 53.35%
+Alignment length: 1059 positions
+
+
+Alignment #11
+----------------------------------------------------------------------------------------------------
+Region 1: 13000-14000 bp
+Region 2: 500-1500 bp
+Score: 472
+Similarity: 53.58%
+Alignment length: 1088 positions
+
+
+Alignment #12
+----------------------------------------------------------------------------------------------------
+Region 1: 17000-18000 bp
+Region 2: 1000-2000 bp
+Score: 471
+Similarity: 53.74%
+Alignment length: 1070 positions
+
+
+Alignment #13
+----------------------------------------------------------------------------------------------------
+Region 1: 18000-19000 bp
+Region 2: 1000-2000 bp
+Score: 471
+Similarity: 54.31%
+Alignment length: 1068 positions
+
+
+Alignment #14
+----------------------------------------------------------------------------------------------------
+Region 1: 3000-4000 bp
+Region 2: 0-1000 bp
+Score: 470
+Similarity: 53.09%
+Alignment length: 1051 positions
+
+
+Alignment #15
+----------------------------------------------------------------------------------------------------
+Region 1: 5500-6500 bp
+Region 2: 0-1000 bp
+Score: 469
+Similarity: 53.43%
+Alignment length: 1063 positions
+
+
+Alignment #16
+----------------------------------------------------------------------------------------------------
+Region 1: 3000-4000 bp
+Region 2: 1000-2000 bp
+Score: 468
+Similarity: 53.10%
+Alignment length: 1049 positions
+
+
+Alignment #17
+----------------------------------------------------------------------------------------------------
+Region 1: 14500-15500 bp
+Region 2: 1000-2000 bp
+Score: 468
+Similarity: 53.33%
+Alignment length: 1080 positions
+
+
+Alignment #18
+----------------------------------------------------------------------------------------------------
+Region 1: 15000-16000 bp
+Region 2: 1000-2000 bp
+Score: 467
+Similarity: 53.37%
+Alignment length: 1038 positions
+
+
+Alignment #19
+----------------------------------------------------------------------------------------------------
+Region 1: 7500-8500 bp
+Region 2: 1000-2000 bp
+Score: 466
+Similarity: 53.18%
+Alignment length: 1085 positions
+
+
+Alignment #20
+----------------------------------------------------------------------------------------------------
+Region 1: 500-1500 bp
+Region 2: 500-1500 bp
+Score: 465
+Similarity: 53.17%
+Alignment length: 1074 positions
+
+
+Alignment #21
+----------------------------------------------------------------------------------------------------
+Region 1: 11500-12500 bp
+Region 2: 1000-2000 bp
+Score: 465
+Similarity: 53.31%
+Alignment length: 1041 positions
+
+
+Alignment #22
+----------------------------------------------------------------------------------------------------
+Region 1: 12000-13000 bp
+Region 2: 500-1500 bp
+Score: 465
+Similarity: 53.64%
+Alignment length: 1072 positions
+
+
+Alignment #23
+----------------------------------------------------------------------------------------------------
+Region 1: 17000-18000 bp
+Region 2: 500-1500 bp
+Score: 465
+Similarity: 53.25%
+Alignment length: 1063 positions
+
+
+Alignment #24
+----------------------------------------------------------------------------------------------------
+Region 1: 8000-9000 bp
+Region 2: 1000-2000 bp
+Score: 464
+Similarity: 53.80%
+Alignment length: 1065 positions
+
+
+Alignment #25
+----------------------------------------------------------------------------------------------------
+Region 1: 2500-3500 bp
+Region 2: 1000-2000 bp
+Score: 463
+Similarity: 53.69%
+Alignment length: 1043 positions
+
+
+Alignment #26
+----------------------------------------------------------------------------------------------------
+Region 1: 2000-3000 bp
+Region 2: 0-1000 bp
+Score: 462
+Similarity: 53.17%
+Alignment length: 1074 positions
+
+
+Alignment #27
+----------------------------------------------------------------------------------------------------
+Region 1: 4000-5000 bp
+Region 2: 1000-2000 bp
+Score: 462
+Similarity: 53.35%
+Alignment length: 1089 positions
+
+
+Alignment #28
+----------------------------------------------------------------------------------------------------
+Region 1: 13500-14500 bp
+Region 2: 1000-2000 bp
+Score: 462
+Similarity: 53.38%
+Alignment length: 1081 positions
+
+
+Alignment #29
+----------------------------------------------------------------------------------------------------
+Region 1: 19500-20500 bp
+Region 2: 500-1500 bp
+Score: 462
+Similarity: 52.75%
+Alignment length: 1073 positions
+
+
+Alignment #30
+----------------------------------------------------------------------------------------------------
+Region 1: 3500-4500 bp
+Region 2: 1000-2000 bp
+Score: 461
+Similarity: 53.18%
+Alignment length: 1055 positions
+
+
+Alignment #31
+----------------------------------------------------------------------------------------------------
+Region 1: 0-1000 bp
+Region 2: 1000-2000 bp
+Score: 460
+Similarity: 52.99%
+Alignment length: 1070 positions
+
+
+Alignment #32
+----------------------------------------------------------------------------------------------------
+Region 1: 500-1500 bp
+Region 2: 0-1000 bp
+Score: 460
+Similarity: 54.00%
+Alignment length: 1013 positions
+
+
+Alignment #33
+----------------------------------------------------------------------------------------------------
+Region 1: 3500-4500 bp
+Region 2: 500-1500 bp
+Score: 460
+Similarity: 53.16%
+Alignment length: 1076 positions
+
+
+Alignment #34
+----------------------------------------------------------------------------------------------------
+Region 1: 20000-21000 bp
+Region 2: 500-1500 bp
+Score: 459
+Similarity: 52.54%
+Alignment length: 1045 positions
+
+
+Alignment #35
+----------------------------------------------------------------------------------------------------
+Region 1: 26500-27500 bp
+Region 2: 1000-2000 bp
+Score: 459
+Similarity: 53.06%
+Alignment length: 1061 positions
+
+
+Alignment #36
+----------------------------------------------------------------------------------------------------
+Region 1: 28000-29000 bp
+Region 2: 0-1000 bp
+Score: 459
+Similarity: 53.28%
+Alignment length: 1051 positions
+
+
+Alignment #37
+----------------------------------------------------------------------------------------------------
+Region 1: 5000-6000 bp
+Region 2: 500-1500 bp
+Score: 458
+Similarity: 53.55%
+Alignment length: 1057 positions
+
+
+Alignment #38
+----------------------------------------------------------------------------------------------------
+Region 1: 16500-17500 bp
+Region 2: 500-1500 bp
+Score: 458
+Similarity: 52.65%
+Alignment length: 1058 positions
+
+
+Alignment #39
+----------------------------------------------------------------------------------------------------
+Region 1: 17500-18500 bp
+Region 2: 500-1500 bp
+Score: 458
+Similarity: 52.77%
+Alignment length: 1084 positions
+
+
+Alignment #40
+----------------------------------------------------------------------------------------------------
+Region 1: 3000-4000 bp
+Region 2: 500-1500 bp
+Score: 457
+Similarity: 52.60%
+Alignment length: 1078 positions
+
+
+Alignment #41
+----------------------------------------------------------------------------------------------------
+Region 1: 12500-13500 bp
+Region 2: 1000-2000 bp
+Score: 456
+Similarity: 53.33%
+Alignment length: 1050 positions
+
+
+Alignment #42
+----------------------------------------------------------------------------------------------------
+Region 1: 500-1500 bp
+Region 2: 1000-2000 bp
+Score: 454
+Similarity: 53.62%
+Alignment length: 1050 positions
+
+
+Alignment #43
+----------------------------------------------------------------------------------------------------
+Region 1: 1500-2500 bp
+Region 2: 500-1500 bp
+Score: 454
+Similarity: 53.30%
+Alignment length: 1047 positions
+
+
+Alignment #44
+----------------------------------------------------------------------------------------------------
+Region 1: 28000-29000 bp
+Region 2: 1000-2000 bp
+Score: 454
+Similarity: 52.77%
+Alignment length: 1084 positions
+
+
+Alignment #45
+----------------------------------------------------------------------------------------------------
+Region 1: 28000-29000 bp
+Region 2: 500-1500 bp
+Score: 453
+Similarity: 53.85%
+Alignment length: 1051 positions
+
+
+Alignment #46
+----------------------------------------------------------------------------------------------------
+Region 1: 16500-17500 bp
+Region 2: 0-1000 bp
+Score: 452
+Similarity: 53.23%
+Alignment length: 1069 positions
+
+
+Alignment #47
+----------------------------------------------------------------------------------------------------
+Region 1: 7500-8500 bp
+Region 2: 0-1000 bp
+Score: 451
+Similarity: 51.97%
+Alignment length: 1066 positions
+
+
+Alignment #48
+----------------------------------------------------------------------------------------------------
+Region 1: 12500-13500 bp
+Region 2: 0-1000 bp
+Score: 451
+Similarity: 53.05%
+Alignment length: 1048 positions
+
+
+Alignment #49
+----------------------------------------------------------------------------------------------------
+Region 1: 24000-25000 bp
+Region 2: 1000-2000 bp
+Score: 451
+Similarity: 53.14%
+Alignment length: 1067 positions
+
+
+Alignment #50
+----------------------------------------------------------------------------------------------------
+Region 1: 13000-14000 bp
+Region 2: 1000-2000 bp
+Score: 450
+Similarity: 53.09%
+Alignment length: 1051 positions
+
+
+Alignment #51
+----------------------------------------------------------------------------------------------------
+Region 1: 15000-16000 bp
+Region 2: 500-1500 bp
+Score: 450
+Similarity: 52.95%
+Alignment length: 1069 positions
+
+
+Alignment #52
+----------------------------------------------------------------------------------------------------
+Region 1: 16500-17500 bp
+Region 2: 1000-2000 bp
+Score: 450
+Similarity: 53.20%
+Alignment length: 1047 positions
+
+
+Alignment #53
+----------------------------------------------------------------------------------------------------
+Region 1: 18000-19000 bp
+Region 2: 500-1500 bp
+Score: 450
+Similarity: 52.82%
+Alignment length: 1064 positions
+
+
+Alignment #54
+----------------------------------------------------------------------------------------------------
+Region 1: 2500-3500 bp
+Region 2: 0-1000 bp
+Score: 449
+Similarity: 53.84%
+Alignment length: 964 positions
+
+
+Alignment #55
+----------------------------------------------------------------------------------------------------
+Region 1: 5500-6500 bp
+Region 2: 1000-2000 bp
+Score: 449
+Similarity: 52.47%
+Alignment length: 1071 positions
+
+
+Alignment #56
+----------------------------------------------------------------------------------------------------
+Region 1: 7500-8500 bp
+Region 2: 500-1500 bp
+Score: 449
+Similarity: 53.21%
+Alignment length: 1058 positions
+
+
+Alignment #57
+----------------------------------------------------------------------------------------------------
+Region 1: 20000-21000 bp
+Region 2: 0-1000 bp
+Score: 449
+Similarity: 52.70%
+Alignment length: 1055 positions
+
+
+Alignment #58
+----------------------------------------------------------------------------------------------------
+Region 1: 23500-24500 bp
+Region 2: 500-1500 bp
+Score: 449
+Similarity: 54.11%
+Alignment length: 961 positions
+
+
+Alignment #59
+----------------------------------------------------------------------------------------------------
+Region 1: 4500-5500 bp
+Region 2: 500-1500 bp
+Score: 448
+Similarity: 52.76%
+Alignment length: 1050 positions
+
+
+Alignment #60
+----------------------------------------------------------------------------------------------------
+Region 1: 5500-6500 bp
+Region 2: 500-1500 bp
+Score: 448
+Similarity: 52.71%
+Alignment length: 1015 positions
+
+
+Alignment #61
+----------------------------------------------------------------------------------------------------
+Region 1: 8000-9000 bp
+Region 2: 0-1000 bp
+Score: 448
+Similarity: 53.14%
+Alignment length: 1052 positions
+
+
+Alignment #62
+----------------------------------------------------------------------------------------------------
+Region 1: 8500-9500 bp
+Region 2: 1000-2000 bp
+Score: 448
+Similarity: 52.04%
+Alignment length: 1076 positions
+
+
+Alignment #63
+----------------------------------------------------------------------------------------------------
+Region 1: 12000-13000 bp
+Region 2: 0-1000 bp
+Score: 448
+Similarity: 52.81%
+Alignment length: 1066 positions
+
+
+Alignment #64
+----------------------------------------------------------------------------------------------------
+Region 1: 6000-7000 bp
+Region 2: 500-1500 bp
+Score: 447
+Similarity: 53.35%
+Alignment length: 1044 positions
+
+
+Alignment #65
+----------------------------------------------------------------------------------------------------
+Region 1: 24000-25000 bp
+Region 2: 500-1500 bp
+Score: 447
+Similarity: 52.76%
+Alignment length: 1050 positions
+
+
+Alignment #66
+----------------------------------------------------------------------------------------------------
+Region 1: 1000-2000 bp
+Region 2: 0-1000 bp
+Score: 446
+Similarity: 52.50%
+Alignment length: 1080 positions
+
+
+Alignment #67
+----------------------------------------------------------------------------------------------------
+Region 1: 4000-5000 bp
+Region 2: 500-1500 bp
+Score: 446
+Similarity: 52.32%
+Alignment length: 1076 positions
+
+
+Alignment #68
+----------------------------------------------------------------------------------------------------
+Region 1: 6000-7000 bp
+Region 2: 1000-2000 bp
+Score: 446
+Similarity: 53.24%
+Alignment length: 1035 positions
+
+
+Alignment #69
+----------------------------------------------------------------------------------------------------
+Region 1: 19500-20500 bp
+Region 2: 1000-2000 bp
+Score: 446
+Similarity: 54.17%
+Alignment length: 947 positions
+
+
+Alignment #70
+----------------------------------------------------------------------------------------------------
+Region 1: 4500-5500 bp
+Region 2: 1000-2000 bp
+Score: 445
+Similarity: 53.29%
+Alignment length: 974 positions
+
+
+Alignment #71
+----------------------------------------------------------------------------------------------------
+Region 1: 14500-15500 bp
+Region 2: 500-1500 bp
+Score: 445
+Similarity: 52.88%
+Alignment length: 1093 positions
+
+
+Alignment #72
+----------------------------------------------------------------------------------------------------
+Region 1: 18000-19000 bp
+Region 2: 0-1000 bp
+Score: 445
+Similarity: 52.65%
+Alignment length: 1077 positions
+
+
+Alignment #73
+----------------------------------------------------------------------------------------------------
+Region 1: 17500-18500 bp
+Region 2: 0-1000 bp
+Score: 444
+Similarity: 52.60%
+Alignment length: 1059 positions
+
+
+Alignment #74
+----------------------------------------------------------------------------------------------------
+Region 1: 24500-25500 bp
+Region 2: 1000-2000 bp
+Score: 444
+Similarity: 52.27%
+Alignment length: 1037 positions
+
+
+Alignment #75
+----------------------------------------------------------------------------------------------------
+Region 1: 10000-11000 bp
+Region 2: 500-1500 bp
+Score: 443
+Similarity: 52.97%
+Alignment length: 1093 positions
+
+
+Alignment #76
+----------------------------------------------------------------------------------------------------
+Region 1: 11500-12500 bp
+Region 2: 0-1000 bp
+Score: 443
+Similarity: 52.20%
+Alignment length: 1069 positions
+
+
+Alignment #77
+----------------------------------------------------------------------------------------------------
+Region 1: 21500-22500 bp
+Region 2: 0-1000 bp
+Score: 443
+Similarity: 52.20%
+Alignment length: 1044 positions
+
+
+Alignment #78
+----------------------------------------------------------------------------------------------------
+Region 1: 4500-5500 bp
+Region 2: 0-1000 bp
+Score: 442
+Similarity: 52.95%
+Alignment length: 1067 positions
+
+
+Alignment #79
+----------------------------------------------------------------------------------------------------
+Region 1: 9500-10500 bp
+Region 2: 1000-2000 bp
+Score: 442
+Similarity: 52.47%
+Alignment length: 1075 positions
+
+
+Alignment #80
+----------------------------------------------------------------------------------------------------
+Region 1: 21000-22000 bp
+Region 2: 500-1500 bp
+Score: 442
+Similarity: 52.88%
+Alignment length: 1023 positions
+
+
+Alignment #81
+----------------------------------------------------------------------------------------------------
+Region 1: 21500-22500 bp
+Region 2: 1000-2000 bp
+Score: 442
+Similarity: 52.56%
+Alignment length: 1054 positions
+
+
+Alignment #82
+----------------------------------------------------------------------------------------------------
+Region 1: 0-1000 bp
+Region 2: 0-1000 bp
+Score: 441
+Similarity: 52.27%
+Alignment length: 1058 positions
+
+
+Alignment #83
+----------------------------------------------------------------------------------------------------
+Region 1: 4000-5000 bp
+Region 2: 0-1000 bp
+Score: 441
+Similarity: 52.39%
+Alignment length: 1067 positions
+
+
+Alignment #84
+----------------------------------------------------------------------------------------------------
+Region 1: 10000-11000 bp
+Region 2: 1000-2000 bp
+Score: 441
+Similarity: 51.78%
+Alignment length: 1041 positions
+
+
+Alignment #85
+----------------------------------------------------------------------------------------------------
+Region 1: 17000-18000 bp
+Region 2: 0-1000 bp
+Score: 441
+Similarity: 52.26%
+Alignment length: 1064 positions
+
+
+Alignment #86
+----------------------------------------------------------------------------------------------------
+Region 1: 20500-21500 bp
+Region 2: 0-1000 bp
+Score: 441
+Similarity: 53.22%
+Alignment length: 1026 positions
+
+
+Alignment #87
+----------------------------------------------------------------------------------------------------
+Region 1: 23000-24000 bp
+Region 2: 500-1500 bp
+Score: 441
+Similarity: 52.46%
+Alignment length: 1058 positions
+
+
+Alignment #88
+----------------------------------------------------------------------------------------------------
+Region 1: 8000-9000 bp
+Region 2: 500-1500 bp
+Score: 440
+Similarity: 51.88%
+Alignment length: 1062 positions
+
+
+Alignment #89
+----------------------------------------------------------------------------------------------------
+Region 1: 13000-14000 bp
+Region 2: 0-1000 bp
+Score: 440
+Similarity: 51.98%
+Alignment length: 1060 positions
+
+
+Alignment #90
+----------------------------------------------------------------------------------------------------
+Region 1: 15500-16500 bp
+Region 2: 1000-2000 bp
+Score: 440
+Similarity: 52.80%
+Alignment length: 1072 positions
+
+
+Alignment #91
+----------------------------------------------------------------------------------------------------
+Region 1: 23500-24500 bp
+Region 2: 1000-2000 bp
+Score: 440
+Similarity: 52.05%
+Alignment length: 1072 positions
+
+
+Alignment #92
+----------------------------------------------------------------------------------------------------
+Region 1: 1500-2500 bp
+Region 2: 1000-2000 bp
+Score: 439
+Similarity: 53.09%
+Alignment length: 1021 positions
+
+
+Alignment #93
+----------------------------------------------------------------------------------------------------
+Region 1: 16000-17000 bp
+Region 2: 500-1500 bp
+Score: 439
+Similarity: 52.38%
+Alignment length: 1050 positions
+
+
+Alignment #94
+----------------------------------------------------------------------------------------------------
+Region 1: 21000-22000 bp
+Region 2: 1000-2000 bp
+Score: 439
+Similarity: 52.08%
+Alignment length: 1056 positions
+
+
+Alignment #95
+----------------------------------------------------------------------------------------------------
+Region 1: 3500-4500 bp
+Region 2: 0-1000 bp
+Score: 438
+Similarity: 52.02%
+Alignment length: 1063 positions
+
+
+Alignment #96
+----------------------------------------------------------------------------------------------------
+Region 1: 15500-16500 bp
+Region 2: 500-1500 bp
+Score: 438
+Similarity: 52.07%
+Alignment length: 1064 positions
+
+
+Alignment #97
+----------------------------------------------------------------------------------------------------
+Region 1: 0-1000 bp
+Region 2: 500-1500 bp
+Score: 437
+Similarity: 53.48%
+Alignment length: 1019 positions
+
+
+Alignment #98
+----------------------------------------------------------------------------------------------------
+Region 1: 2000-3000 bp
+Region 2: 500-1500 bp
+Score: 437
+Similarity: 52.66%
+Alignment length: 1052 positions
+
+
+Alignment #99
+----------------------------------------------------------------------------------------------------
+Region 1: 5000-6000 bp
+Region 2: 0-1000 bp
+Score: 437
+Similarity: 52.17%
+Alignment length: 1081 positions
+
+
+Alignment #100
+----------------------------------------------------------------------------------------------------
+Region 1: 11000-12000 bp
+Region 2: 1000-2000 bp
+Score: 437
+Similarity: 52.12%
+Alignment length: 1040 positions
+
+
+Alignment #101
+----------------------------------------------------------------------------------------------------
+Region 1: 14500-15500 bp
+Region 2: 0-1000 bp
+Score: 437
+Similarity: 53.27%
+Alignment length: 1023 positions
+
+
+Alignment #102
+----------------------------------------------------------------------------------------------------
+Region 1: 18500-19500 bp
+Region 2: 1000-2000 bp
+Score: 437
+Similarity: 52.63%
+Alignment length: 1066 positions
+
+
+Alignment #103
+----------------------------------------------------------------------------------------------------
+Region 1: 23000-24000 bp
+Region 2: 1000-2000 bp
+Score: 437
+Similarity: 52.38%
+Alignment length: 1071 positions
+
+
+Alignment #104
+----------------------------------------------------------------------------------------------------
+Region 1: 6000-7000 bp
+Region 2: 0-1000 bp
+Score: 436
+Similarity: 52.56%
+Alignment length: 1075 positions
+
+
+Alignment #105
+----------------------------------------------------------------------------------------------------
+Region 1: 21500-22500 bp
+Region 2: 500-1500 bp
+Score: 436
+Similarity: 52.44%
+Alignment length: 1043 positions
+
+
+Alignment #106
+----------------------------------------------------------------------------------------------------
+Region 1: 26000-27000 bp
+Region 2: 500-1500 bp
+Score: 436
+Similarity: 52.40%
+Alignment length: 1061 positions
+
+
+Alignment #107
+----------------------------------------------------------------------------------------------------
+Region 1: 27500-28500 bp
+Region 2: 0-1000 bp
+Score: 436
+Similarity: 52.70%
+Alignment length: 1057 positions
+
+
+Alignment #108
+----------------------------------------------------------------------------------------------------
+Region 1: 9500-10500 bp
+Region 2: 0-1000 bp
+Score: 435
+Similarity: 52.35%
+Alignment length: 1064 positions
+
+
+Alignment #109
+----------------------------------------------------------------------------------------------------
+Region 1: 13500-14500 bp
+Region 2: 500-1500 bp
+Score: 435
+Similarity: 52.35%
+Alignment length: 1041 positions
+
+
+Alignment #110
+----------------------------------------------------------------------------------------------------
+Region 1: 14000-15000 bp
+Region 2: 0-1000 bp
+Score: 435
+Similarity: 52.22%
+Alignment length: 1080 positions
+
+
+Alignment #111
+----------------------------------------------------------------------------------------------------
+Region 1: 22500-23500 bp
+Region 2: 1000-2000 bp
+Score: 435
+Similarity: 52.21%
+Alignment length: 1061 positions
+
+
+Alignment #112
+----------------------------------------------------------------------------------------------------
+Region 1: 10000-11000 bp
+Region 2: 0-1000 bp
+Score: 434
+Similarity: 53.15%
+Alignment length: 1065 positions
+
+
+Alignment #113
+----------------------------------------------------------------------------------------------------
+Region 1: 15000-16000 bp
+Region 2: 0-1000 bp
+Score: 434
+Similarity: 52.73%
+Alignment length: 1009 positions
+
+
+Alignment #114
+----------------------------------------------------------------------------------------------------
+Region 1: 22000-23000 bp
+Region 2: 1000-2000 bp
+Score: 434
+Similarity: 52.51%
+Alignment length: 1055 positions
+
+
+Alignment #115
+----------------------------------------------------------------------------------------------------
+Region 1: 27000-28000 bp
+Region 2: 1000-2000 bp
+Score: 434
+Similarity: 52.18%
+Alignment length: 1077 positions
+
+
+Alignment #116
+----------------------------------------------------------------------------------------------------
+Region 1: 10500-11500 bp
+Region 2: 1000-2000 bp
+Score: 433
+Similarity: 52.50%
+Alignment length: 1059 positions
+
+
+Alignment #117
+----------------------------------------------------------------------------------------------------
+Region 1: 19000-20000 bp
+Region 2: 0-1000 bp
+Score: 433
+Similarity: 51.88%
+Alignment length: 1062 positions
+
+
+Alignment #118
+----------------------------------------------------------------------------------------------------
+Region 1: 19000-20000 bp
+Region 2: 500-1500 bp
+Score: 433
+Similarity: 53.74%
+Alignment length: 988 positions
+
+
+Alignment #119
+----------------------------------------------------------------------------------------------------
+Region 1: 23000-24000 bp
+Region 2: 0-1000 bp
+Score: 433
+Similarity: 51.87%
+Alignment length: 1045 positions
+
+
+Alignment #120
+----------------------------------------------------------------------------------------------------
+Region 1: 23500-24500 bp
+Region 2: 0-1000 bp
+Score: 433
+Similarity: 53.61%
+Alignment length: 996 positions
+
+
+Alignment #121
+----------------------------------------------------------------------------------------------------
+Region 1: 27500-28500 bp
+Region 2: 1000-2000 bp
+Score: 433
+Similarity: 52.12%
+Alignment length: 1061 positions
+
+
+Alignment #122
+----------------------------------------------------------------------------------------------------
+Region 1: 19000-20000 bp
+Region 2: 1000-2000 bp
+Score: 432
+Similarity: 52.14%
+Alignment length: 1053 positions
+
+
+Alignment #123
+----------------------------------------------------------------------------------------------------
+Region 1: 19500-20500 bp
+Region 2: 0-1000 bp
+Score: 432
+Similarity: 52.41%
+Alignment length: 1057 positions
+
+
+Alignment #124
+----------------------------------------------------------------------------------------------------
+Region 1: 13500-14500 bp
+Region 2: 0-1000 bp
+Score: 430
+Similarity: 52.13%
+Alignment length: 1032 positions
+
+
+Alignment #125
+----------------------------------------------------------------------------------------------------
+Region 1: 24000-25000 bp
+Region 2: 0-1000 bp
+Score: 430
+Similarity: 52.03%
+Alignment length: 1059 positions
+
+
+Alignment #126
+----------------------------------------------------------------------------------------------------
+Region 1: 26500-27500 bp
+Region 2: 500-1500 bp
+Score: 430
+Similarity: 52.15%
+Alignment length: 1068 positions
+
+
+Alignment #127
+----------------------------------------------------------------------------------------------------
+Region 1: 27000-28000 bp
+Region 2: 500-1500 bp
+Score: 430
+Similarity: 51.38%
+Alignment length: 1053 positions
+
+
+Alignment #128
+----------------------------------------------------------------------------------------------------
+Region 1: 1000-2000 bp
+Region 2: 500-1500 bp
+Score: 429
+Similarity: 52.43%
+Alignment length: 1051 positions
+
+
+Alignment #129
+----------------------------------------------------------------------------------------------------
+Region 1: 6500-7500 bp
+Region 2: 1000-2000 bp
+Score: 429
+Similarity: 51.82%
+Alignment length: 1071 positions
+
+
+Alignment #130
+----------------------------------------------------------------------------------------------------
+Region 1: 7000-8000 bp
+Region 2: 500-1500 bp
+Score: 429
+Similarity: 53.13%
+Alignment length: 990 positions
+
+
+Alignment #131
+----------------------------------------------------------------------------------------------------
+Region 1: 9500-10500 bp
+Region 2: 500-1500 bp
+Score: 429
+Similarity: 52.26%
+Alignment length: 1060 positions
+
+
+Alignment #132
+----------------------------------------------------------------------------------------------------
+Region 1: 22000-23000 bp
+Region 2: 500-1500 bp
+Score: 428
+Similarity: 51.56%
+Alignment length: 1055 positions
+
+
+Alignment #133
+----------------------------------------------------------------------------------------------------
+Region 1: 14000-15000 bp
+Region 2: 500-1500 bp
+Score: 427
+Similarity: 51.96%
+Alignment length: 1072 positions
+
+
+Alignment #134
+----------------------------------------------------------------------------------------------------
+Region 1: 16000-17000 bp
+Region 2: 0-1000 bp
+Score: 427
+Similarity: 51.64%
+Alignment length: 1065 positions
+
+
+Alignment #135
+----------------------------------------------------------------------------------------------------
+Region 1: 16000-17000 bp
+Region 2: 1000-2000 bp
+Score: 427
+Similarity: 51.96%
+Alignment length: 1018 positions
+
+
+Alignment #136
+----------------------------------------------------------------------------------------------------
+Region 1: 7000-8000 bp
+Region 2: 0-1000 bp
+Score: 426
+Similarity: 51.59%
+Alignment length: 1072 positions
+
+
+Alignment #137
+----------------------------------------------------------------------------------------------------
+Region 1: 14000-15000 bp
+Region 2: 1000-2000 bp
+Score: 426
+Similarity: 52.54%
+Alignment length: 1102 positions
+
+
+Alignment #138
+----------------------------------------------------------------------------------------------------
+Region 1: 18500-19500 bp
+Region 2: 0-1000 bp
+Score: 426
+Similarity: 52.07%
+Alignment length: 1064 positions
+
+
+Alignment #139
+----------------------------------------------------------------------------------------------------
+Region 1: 22500-23500 bp
+Region 2: 0-1000 bp
+Score: 426
+Similarity: 52.28%
+Alignment length: 1052 positions
+
+
+Alignment #140
+----------------------------------------------------------------------------------------------------
+Region 1: 26500-27500 bp
+Region 2: 0-1000 bp
+Score: 426
+Similarity: 52.04%
+Alignment length: 1080 positions
+
+
+Alignment #141
+----------------------------------------------------------------------------------------------------
+Region 1: 18500-19500 bp
+Region 2: 500-1500 bp
+Score: 425
+Similarity: 51.79%
+Alignment length: 1060 positions
+
+
+Alignment #142
+----------------------------------------------------------------------------------------------------
+Region 1: 25500-26500 bp
+Region 2: 1000-2000 bp
+Score: 425
+Similarity: 52.19%
+Alignment length: 1075 positions
+
+
+Alignment #143
+----------------------------------------------------------------------------------------------------
+Region 1: 25500-26500 bp
+Region 2: 0-1000 bp
+Score: 424
+Similarity: 52.32%
+Alignment length: 1057 positions
+
+
+Alignment #144
+----------------------------------------------------------------------------------------------------
+Region 1: 7000-8000 bp
+Region 2: 1000-2000 bp
+Score: 423
+Similarity: 51.64%
+Alignment length: 1067 positions
+
+
+Alignment #145
+----------------------------------------------------------------------------------------------------
+Region 1: 27000-28000 bp
+Region 2: 0-1000 bp
+Score: 423
+Similarity: 51.81%
+Alignment length: 1048 positions
+
+
+Alignment #146
+----------------------------------------------------------------------------------------------------
+Region 1: 15500-16500 bp
+Region 2: 0-1000 bp
+Score: 421
+Similarity: 52.39%
+Alignment length: 1067 positions
+
+
+Alignment #147
+----------------------------------------------------------------------------------------------------
+Region 1: 26000-27000 bp
+Region 2: 1000-2000 bp
+Score: 421
+Similarity: 52.05%
+Alignment length: 1022 positions
+
+
+Alignment #148
+----------------------------------------------------------------------------------------------------
+Region 1: 22500-23500 bp
+Region 2: 500-1500 bp
+Score: 420
+Similarity: 51.80%
+Alignment length: 1054 positions
+
+
+Alignment #149
+----------------------------------------------------------------------------------------------------
+Region 1: 27500-28500 bp
+Region 2: 500-1500 bp
+Score: 419
+Similarity: 51.91%
+Alignment length: 1071 positions
+
+
+Alignment #150
+----------------------------------------------------------------------------------------------------
+Region 1: 1500-2500 bp
+Region 2: 0-1000 bp
+Score: 416
+Similarity: 51.44%
+Alignment length: 1044 positions
+
+
+Alignment #151
+----------------------------------------------------------------------------------------------------
+Region 1: 25500-26500 bp
+Region 2: 500-1500 bp
+Score: 416
+Similarity: 52.90%
+Alignment length: 983 positions
+
+
+Alignment #152
+----------------------------------------------------------------------------------------------------
+Region 1: 10500-11500 bp
+Region 2: 0-1000 bp
+Score: 415
+Similarity: 51.57%
+Alignment length: 1051 positions
+
+
+Alignment #153
+----------------------------------------------------------------------------------------------------
+Region 1: 12500-13500 bp
+Region 2: 500-1500 bp
+Score: 415
+Similarity: 51.71%
+Alignment length: 1054 positions
+
+
+Alignment #154
+----------------------------------------------------------------------------------------------------
+Region 1: 21000-22000 bp
+Region 2: 0-1000 bp
+Score: 415
+Similarity: 52.12%
+Alignment length: 1015 positions
+
+
+Alignment #155
+----------------------------------------------------------------------------------------------------
+Region 1: 24500-25500 bp
+Region 2: 0-1000 bp
+Score: 414
+Similarity: 51.00%
+Alignment length: 1049 positions
+
+
+Alignment #156
+----------------------------------------------------------------------------------------------------
+Region 1: 24500-25500 bp
+Region 2: 500-1500 bp
+Score: 414
+Similarity: 51.95%
+Alignment length: 1049 positions
+
+
+Alignment #157
+----------------------------------------------------------------------------------------------------
+Region 1: 10500-11500 bp
+Region 2: 500-1500 bp
+Score: 411
+Similarity: 52.32%
+Alignment length: 1036 positions
+
+
+Alignment #158
+----------------------------------------------------------------------------------------------------
+Region 1: 6500-7500 bp
+Region 2: 0-1000 bp
+Score: 409
+Similarity: 52.31%
+Alignment length: 1038 positions
+
+
+Alignment #159
+----------------------------------------------------------------------------------------------------
+Region 1: 8500-9500 bp
+Region 2: 500-1500 bp
+Score: 408
+Similarity: 51.52%
+Alignment length: 1056 positions
+
+
+Alignment #160
+----------------------------------------------------------------------------------------------------
+Region 1: 11000-12000 bp
+Region 2: 500-1500 bp
+Score: 406
+Similarity: 50.81%
+Alignment length: 1045 positions
+
+
+Alignment #161
+----------------------------------------------------------------------------------------------------
+Region 1: 25000-26000 bp
+Region 2: 500-1500 bp
+Score: 405
+Similarity: 51.82%
+Alignment length: 1071 positions
+
+
+Alignment #162
+----------------------------------------------------------------------------------------------------
+Region 1: 9000-10000 bp
+Region 2: 500-1500 bp
+Score: 404
+Similarity: 50.66%
+Alignment length: 1058 positions
+
+
+Alignment #163
+----------------------------------------------------------------------------------------------------
+Region 1: 9000-10000 bp
+Region 2: 1000-2000 bp
+Score: 404
+Similarity: 51.75%
+Alignment length: 999 positions
+
+
+Alignment #164
+----------------------------------------------------------------------------------------------------
+Region 1: 22000-23000 bp
+Region 2: 0-1000 bp
+Score: 403
+Similarity: 51.25%
+Alignment length: 1044 positions
+
+
+Alignment #165
+----------------------------------------------------------------------------------------------------
+Region 1: 6500-7500 bp
+Region 2: 500-1500 bp
+Score: 398
+Similarity: 50.95%
+Alignment length: 1054 positions
+
+
+Alignment #166
+----------------------------------------------------------------------------------------------------
+Region 1: 8500-9500 bp
+Region 2: 0-1000 bp
+Score: 394
+Similarity: 51.64%
+Alignment length: 1034 positions
+
+
+Alignment #167
+----------------------------------------------------------------------------------------------------
+Region 1: 11000-12000 bp
+Region 2: 0-1000 bp
+Score: 393
+Similarity: 51.44%
+Alignment length: 1079 positions
+
+
+Alignment #168
+----------------------------------------------------------------------------------------------------
+Region 1: 25000-26000 bp
+Region 2: 1000-2000 bp
+Score: 393
+Similarity: 50.75%
+Alignment length: 1072 positions
+
+
+Alignment #169
+----------------------------------------------------------------------------------------------------
+Region 1: 26000-27000 bp
+Region 2: 0-1000 bp
+Score: 385
+Similarity: 49.95%
+Alignment length: 1067 positions
+
+
+Alignment #170
+----------------------------------------------------------------------------------------------------
+Region 1: 9000-10000 bp
+Region 2: 0-1000 bp
+Score: 384
+Similarity: 50.78%
+Alignment length: 1024 positions
+
+
+Alignment #171
+----------------------------------------------------------------------------------------------------
+Region 1: 25000-26000 bp
+Region 2: 0-1000 bp
+Score: 378
+Similarity: 50.53%
+Alignment length: 1037 positions
+
