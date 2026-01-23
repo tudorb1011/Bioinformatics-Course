@@ -1,0 +1,3 @@
+#download 2 poetries from the internet: one from Mihai Eminescu and the other from Nichita Stanescu, make sure that the two poetries are almost of the same size. use this two texts to make two transition matrices which captures the transitions probabilities between the words of this two texts
+#use a new text which combines other poetries from the two poets
+#generate the log-Likelihood matrix between the 2 models and use this matrix to scan the 3rd text which is a combination of other poetries of the two authors. your scanner must be able to calculate the scores of a sliding window and tell the user or show the user on a chart which pieces are from mihai eminescu and which are from nichita stanescu
